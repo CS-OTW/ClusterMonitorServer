@@ -14,8 +14,16 @@
   
     `$ conda create -n ClusterMonitorServer python=3.6`
   - install essential package
-   
-    `$ conda env update -f ClusterMonitorServer.yml`
+  
+    modify the yml file `prefix` to your env path
+    
+    Windows System
+    
+    `$ conda env update -f ClusterMonitorServer-Win.yml`
+    
+    Linux System
+    
+    `$ conda env update -f ClusterMonitorServer-Linux.yml`
   - enable env
     
     `$ source activate ClusterMonitorServer`
