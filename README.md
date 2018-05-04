@@ -2,8 +2,8 @@
 
 - Download Project
 
-`$ git clone git@github.com:CS-OTW/ClusterMonitorServer.git`
-`$ cd ClusterMonitorServer`
+  `$ git clone git@github.com:CS-OTW/ClusterMonitorServer.git`
+  `$ cd ClusterMonitorServer`
 - [Install Anaconda 3](https://www.anaconda.com/download/#linux)/ConfigEnv
   - add install-directory to ENV
   
