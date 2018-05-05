@@ -40,9 +40,7 @@
 - Run
 
   `$ python manage.py runserver 0.0.0.0:8000`
-  
-  deattach screen
-  
+  deattach screen 
   `Ctrl-A-D`
 - Access the website from browser
 
