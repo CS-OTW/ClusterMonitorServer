@@ -1,0 +1,8 @@
+name: ClusterMonitorServer
+channels:
+  - defaults
+dependencies:
+  - django=2.0.2=py36hd476221_0
+  - pytz=2018.4=py36_0
+prefix: /home/jedore/.conda/envs/ClusterMonitorServer
+
